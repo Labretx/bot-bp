@@ -32,7 +32,7 @@ You can download the latest version on the [official Python website](https://www
 If Python is successfully installed open the directory where you want to save your bot and open the command line in the directory.
 Then use this command to download the template:
 
-``` git clone https://www.github.com/labret55/bot-bp ```
+``` git clone https://www.github.com/labretx/bot-bp ```
 
 Now you have copied the template into the destination folder.
 Use `cd bot-bp` followed by `code .` to start VS Code and work on the bot.
