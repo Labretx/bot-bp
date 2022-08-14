@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: new_bot
+    volumes:
+      - bot_db:/new_bot/vol
+  
+volumes:
+  bot_db:
+    external: true
+    name: bot_db
